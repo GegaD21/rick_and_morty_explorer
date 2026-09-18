@@ -1,0 +1,14 @@
+[
+    {
+        "type": "character",
+        "query": "name=Rick Sanchez"
+    },
+    {
+        "type": "location",
+        "query": "name=Earth"
+    },
+    {
+        "type": "episode",
+        "query": "name=Rick Potion"
+    }
+]
